@@ -1,6 +1,6 @@
 # Deliverybot
 
-https://deliverybot.prod-ap-southeast-1.moengage.com/moengage
+https://deliverybot.moengage.com
 
 Simple Continuous Delivery for GitHub: Fast, safe and secure Continous Delivery
 pipelines you can setup in minutes. Fully open source.
