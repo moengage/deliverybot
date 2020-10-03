@@ -1,6 +1,6 @@
 # Deliverybot
 
-https://deliverybot.dev
+https://deliverybot.prod-ap-southeast-1.moengage.com/moengage
 
 Simple Continuous Delivery for GitHub: Fast, safe and secure Continous Delivery
 pipelines you can setup in minutes. Fully open source.
@@ -16,13 +16,6 @@ pipelines you can setup in minutes. Fully open source.
 * Integrates with slack: Deploy from slack as well as deployments from a
   dashboard.
 
-## Contributing
-
-If you have suggestions for how deliverybot could be improved, or want to report
-a bug, open an issue! We'd love all and any contributions.
-
-For more, check out the [Contributing Guide](CONTRIBUTING.md).
-
 ### Setup
 
     yarn install
@@ -30,5 +23,5 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[MIT](LICENSE) © 2019 Deliverybot (https://github.com/deliverybot/deliverybot)
+[MIT](LICENSE) © 2019 Deliverybot (https://github.com/moengage/deliverybot)
 
